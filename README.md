@@ -1,3 +1,4 @@
+
 # AndroidTeamProject
 
 At its core, GymPass is an app that supports users with their gym goals while simultaneously providing an interface between a gym’s membership and its administrative staff. The idea for GymPass came about as a compromised collation of groups members’ ideas, stemming for real-world “customer problems” and researching the Android market, a trend emerged in relation to the lack of gym-specific apps that avail of customer data in offering gym-targeted app services. GYMPass is apps for the future with the users Gym goals all in one place in providing each user with a unique login and barcode scanner for gym access. Related news updated through message notification, trophy badges rewarded to users on their dedicated by tracking the user locate and workout video with workout motivation.
